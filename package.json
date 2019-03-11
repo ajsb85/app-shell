@@ -1,0 +1,56 @@
+{
+  "name": "app-shell",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generic app for Teclib' projects.",
+  "main": "app/index.html",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.4.10",
+    "connect-modrewrite": "^0.10.2",
+    "grunt": "^1.0.3",
+    "grunt-angular-templates": "^1.1.0",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-htmlmin": "^3.0.0",
+    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-filerev": "^2.3.1",
+    "grunt-google-cdn": "^0.4.3",
+    "grunt-jscs": "^3.0.1",
+    "grunt-newer": "^1.3.0",
+    "grunt-ng-annotate": "^3.0.0",
+    "grunt-postcss": "^0.9.0",
+    "grunt-svgmin": "^5.0.0",
+    "grunt-usemin": "^3.1.1",
+    "grunt-wiredep": "^3.0.1",
+    "jit-grunt": "^0.10.0",
+    "time-grunt": "^2.0.0",
+    "jshint-stylish": "^2.2.1"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyve-mdm/legacy-web-dashboard.git"
+  },
+  "keywords": [
+    "app-shell"
+  ],
+  "author": "Alexander Salas Bastidas <a.salas@ieee.org>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/flyve-mdm/legacy-web-dashboard/issues"
+  },
+  "homepage": "https://github.com/flyve-mdm/legacy-web-dashboard#readme"
+}
